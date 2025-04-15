@@ -34,4 +34,5 @@ This project analyzes U.S. international air passenger and freight data using Ex
 ## Data Visualization
 ![Table](https://github.com/Ola-ykay/US-International-Air-Traffic/blob/main/us_table.png)
 ![Analysis](https://github.com/Ola-ykay/US-International-Air-Traffic/blob/main/us_analysis.png)
+![Dashboard](https://github.com/Ola-ykay/US-International-Air-Traffic/blob/main/US_international_air.png)
 
