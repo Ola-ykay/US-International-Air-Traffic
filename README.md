@@ -32,3 +32,5 @@ This project analyzes U.S. international air passenger and freight data using Ex
 6. Yearly total flight
 
 ## Data Visualization
+![Table](https://github.com/Ola-ykay/US-International-Air-Traffic/blob/main/us_table.png)
+
